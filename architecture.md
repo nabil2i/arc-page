@@ -16,7 +16,7 @@ ARC is a Flask web application build with the following technologies:
 
 
 ## Database
-- Relationational Database to store data
+- MySQL Relationational Database to store data
 - Handle database with ORM (SQLAlchemy)
 ![database](./assets/images/database.png)
 
