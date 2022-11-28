@@ -1,4 +1,4 @@
 #!/usr/bin/bash
 git add .
-git commit -m "made some changes"
+git commit -m "add changes"
 git push
