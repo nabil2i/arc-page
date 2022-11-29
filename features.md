@@ -3,40 +3,50 @@ layout: page
 title: Features
 permalink: /features/
 ---
-![home](/assets/images/home.png)
+<!-- ![home](/assets/images/home.png) -->
+Here are some features of our web application.
+
 ### 1- sign-up
-![sign-up](/assets/images/sign-up.png)
 To have access to the service, the user needs to open an account.
 
+
+![sign-up](/assets/images/sign-up.png)
+
 ### 2- sign-up
+Once the user has opened an account, they can sign in to use the service offered.
+
+
 ![login](/assets/images/login.png)
-Once the user has opened an account, the can sign in to use the service offered.
+
 
 ### 3- see-available-doctors
+With this feature, the app uses the location of the user, the location of the doctors and the Google Maps Distance Matrix tool to display the available doctors for the user.
+
 
 ![see-available-doctors](/assets/images/doctors.png)
 
-With this feature, the app uses the location of the user, the location of the doctors and the Google Maps Distance Matrix service to display the available doctors for the user.
-
 ### 4- book-appointment
+This feature allows the user to book an appointment with a doctor
+
 
 ![book-appointment](/assets/images/booking.png)
 
-This feature allows the user to book an appointment with a doctor
 
 ### 5- see-appointments
+This feature allows the user to see all the appointments they've made
+
 
 ![see-appointments](/assets/images/appointments-profile.png)
 
-This feature allows the user to see all the appointments they've made
-
 ### Video showcasing the app
-Click the image below to watch some features in action! 
+[Click the image below to watch some features in action!](https://youtu.be/Od0vyEPzyhc)
+
+
 [![video-features](/assets/images/home.png)](https://youtu.be/Od0vyEPzyhc)
 
 ## Known bugs
 * The loading of the doctors is not as fluid as expected, API calls can lag.
-* There are issue when using on mobile like elements being shrinked... 
+* There are issues when using on mobile. For example elements being shrinked... 
 
 ## Future for the App
-For now the app has just some basic features. We have the ambition to add more features such as virtual appointments, emergency care and more.
+For now the app just has some basic features and is developped for a small area only (city). We have the ambition to expand the app to a larger scope, to add more features such as virtual appointments, emergency care and more.
