@@ -12,7 +12,7 @@ To have access to the service, the user needs to open an account.
 
 ![sign-up](/assets/images/sign-up.png)
 
-### 2- sign-up
+### 2- log-in
 Once the user has opened an account, they can sign in to use the service offered.
 
 
