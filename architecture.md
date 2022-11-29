@@ -5,7 +5,7 @@ permalink: /architecture/
 ---
 ![technology](./assets/images/tech.png)
 
-ARC is a Flask web application build with the following technologies:
+ARC is a Flask web application built with the following technologies:
 ## Front End:
 - **HTML/CSS** for markup and styling of the webpages
 - **Javascript** for dynamic content
