@@ -4,7 +4,7 @@ title: Architecture & Technology
 permalink: /architecture/
 ---
 ![technology](./assets/images/tech.png)
-
+This is project has been demanding in the backend.
 ARC is a Flask web application built with the following technologies:
 ## Front End:
 - **HTML/CSS** with **Jinja** templating engine for markup and styling of the webpages
