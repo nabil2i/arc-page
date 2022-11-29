@@ -15,5 +15,5 @@ They can see their upcoming appointments and their past appointments, update the
 ## The Context
 This project is our Portfolio Project, concluding our Foundations Year at ALX. We were able to choose our project partners and project topic, as long as we present a working program at the end of the three weeks of development.
 
-## Take a tour of the deployed version at [http://africanrapidcare.com](https://africanrapidcare.com)
+## Take a tour of the deployed version at [https://africanrapidcare.com](https://africanrapidcare.com)
 
