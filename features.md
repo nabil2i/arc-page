@@ -49,4 +49,4 @@ This feature allows the user to see all the appointments they've made
 * There are issues when using on mobile. For example elements being shrinked... 
 
 ## Future for the App
-For now the app just has some basic features and is developped for a small area only (city). We have the ambition to expand the app to a larger scope, to add more features such as virtual appointments, emergency care and more.
+For now the app just has some basic features and is developped for a small area only (city), and the narrowed search for doctors (only present in the design) is not yet fully implemented as it wasn't in the MVP. We have the ambition to expand the app to a larger scope, add a tailored search, add more features such as virtual appointments, emergency care and more.
