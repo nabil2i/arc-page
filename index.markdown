@@ -5,7 +5,7 @@
 layout: page
 ---
 **African Rapid Care** ~ A doctor right next door to take care of you!
-![logo](./assets/images/arc3.jpg)
+![logo](./assets/images/arc.jpg)
 
 **ARC** is an appointment website where patients in need of health care can quickly find an available and appropriate physician in their vicinity.
 
